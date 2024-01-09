@@ -1,0 +1,11 @@
+{
+  "név": "VM",
+  "kor": 25,
+  "playtime":
+  {
+    "game_A": 25,
+    "game_B": 5,
+    "game_C": 6,
+    "game_D": 9
+  }
+}
